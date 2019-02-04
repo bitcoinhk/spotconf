@@ -1,0 +1,10 @@
+---
+title: Tangem
+name: tangem
+subtitle: Position
+layout: 2018_default
+modal-id: 1
+thumbnail: tangem_thumb.png
+alt: Coinhako logo
+link: https://tangem.com/
+---

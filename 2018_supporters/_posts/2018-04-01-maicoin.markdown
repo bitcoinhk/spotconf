@@ -1,0 +1,10 @@
+---
+title: Maicoin
+name: maicoin
+subtitle: Position
+layout: 2018_default
+modal-id: 1
+thumbnail: maicoin_thumb.png
+alt: Maicoin logo
+link: https://www.maicoin.com/
+---

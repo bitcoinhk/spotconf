@@ -1,0 +1,9 @@
+---
+title: Karen Lee
+name: karen
+subtitle: Social Media Manager, Bitcoin Association of Hong Kong
+layout: 2018_default
+thumbnail: karen_thumb.png
+alt: Karen Lee
+link: https://www.linkedin.com/in/karen-lee-085a3660/
+---

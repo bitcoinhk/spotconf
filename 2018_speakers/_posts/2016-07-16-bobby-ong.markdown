@@ -1,0 +1,11 @@
+---
+title: Bobby Ong
+name: bobby-ong
+position: Co-founder
+company: Coingecko
+layout: 2018_default
+modal-id: 1
+thumbnail: bobby-ong.png
+alt: Picture of Bobby Ong
+link: https://www.coingecko.com/
+---

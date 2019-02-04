@@ -1,0 +1,10 @@
+---
+title: BTCC
+name: btcc
+subtitle: Position
+layout: 2018_default
+modal-id: 1
+thumbnail: btcc_thumb.png
+alt: BTCC logo
+link: https://www.btcc.com/
+---

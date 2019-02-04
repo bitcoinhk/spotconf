@@ -1,0 +1,9 @@
+---
+title: Crystal Wray
+name: crystal
+subtitle: Hospitality Manager, Bitcoin Association of Hong Kong
+layout: 2018_default
+thumbnail: crystal_thumb.png
+alt: Crystal Wray
+link: team
+---

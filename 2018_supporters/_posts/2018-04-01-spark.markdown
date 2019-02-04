@@ -1,0 +1,10 @@
+---
+title: Spark
+name: spark
+subtitle: Position
+layout: 2018_default
+modal-id: 1
+thumbnail: spark_thumb.png
+alt: Spark logo
+link: https://bitspark.io/
+---

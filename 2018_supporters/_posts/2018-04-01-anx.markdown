@@ -1,0 +1,10 @@
+---
+title: ANX
+name: anx
+subtitle: Position
+layout: 2018_default
+modal-id: 1
+thumbnail: anx_thumb.png
+alt: ANX logo
+link: https://anxintl.com/
+---

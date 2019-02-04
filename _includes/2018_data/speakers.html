@@ -1,0 +1,23 @@
+<!-- Portfolio Grid Section -->
+    <section id="speakers" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Speakers</h2>
+                    <h3 class="section-subheading text-muted"></h3>
+                </div>
+            </div>
+            <div class="row">
+            {% for post in site.categories.2018_speakers %}
+                <div class="col-md-2 col-sm-3 speakers-item">
+                        <img src="../css/2018_style/img/speaker/{{ post.thumbnail }}" class="img-responsive img-centered" alt="{{  post.alt }}" title="{{ post.position }}">
+                    </a>
+                    <div class="speakers-caption">
+                        <h4>{{ post.title }}</h4>
+                        <p class="text-muted"><a href="{{ post.link }}">{{ post.company }}</a></p>
+                    </div>
+                </div>
+            {% endfor %}
+            </div>
+        </div>
+    </section>
