@@ -1,9 +1,0 @@
----
-title: Natalie Lau
-name: natalie
-subtitle: Business Development, Bitcoin Association of Hong Kong
-layout: 2018_default
-thumbnail: natalie_thumb.png
-alt: Natalie Lau
-link: https://www.linkedin.com/in/natalielauyl/
----

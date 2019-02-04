@@ -1,9 +1,0 @@
----
-title: Olga Kochmar
-name: olga
-subtitle: Public Relations, Bitcoin Association of Hong Kong
-layout: 2018_default
-thumbnail: olga_thumb.png
-alt: Olga Kochmar
-link: https://www.linkedin.com/in/olga-kochmar-4049ab163/
----

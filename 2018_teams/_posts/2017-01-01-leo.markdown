@@ -1,9 +1,0 @@
----
-title: Leonhard Weese
-name: leo
-subtitle: President, Bitcoin Association of Hong Kong
-layout: 2018_default
-thumbnail: leo_thumb.png
-alt: Picture of Leonhard Weese
-link: https://www.twitter.com/LeoAW
----
