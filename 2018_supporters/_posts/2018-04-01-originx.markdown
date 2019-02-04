@@ -1,0 +1,10 @@
+---
+title: Origin X Capital
+name: originx
+subtitle: Position
+layout: 2018_default
+modal-id: 1
+thumbnail: originx_thumb.png
+alt: Origin X Capital logo
+link: https://origin-x.capital/
+---

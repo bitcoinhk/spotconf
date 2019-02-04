@@ -1,0 +1,10 @@
+---
+title: Coinbama
+name: coinbama
+subtitle: Position
+layout: 2018_default
+modal-id: 1
+thumbnail: coinbama_thumb.png
+alt: Coinbama logo
+link: http://coinbama.com/
+---

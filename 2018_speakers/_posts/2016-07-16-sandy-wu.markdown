@@ -1,0 +1,11 @@
+---
+title: Sandy Wu
+name: sandy-wu
+position: Managing Director
+company: Origin X Capital
+layout: 2018_default
+modal-id: 1
+thumbnail: sandy-wu.png
+alt: Picture of Sandy Wu
+link: https://origin-x.capital/
+---

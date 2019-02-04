@@ -1,0 +1,10 @@
+---
+title: Dex.top
+name: dextop
+subtitle: Position
+layout: 2018_default
+modal-id: 1
+thumbnail: dextop_thumb.png
+alt: Dex.top logo
+link: https://dex.top/
+---

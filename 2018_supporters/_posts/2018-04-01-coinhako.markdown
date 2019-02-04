@@ -1,0 +1,10 @@
+---
+title: Coinhako
+name: coinhako
+subtitle: Position
+layout: 2018_default
+modal-id: 1
+thumbnail: coinhako_thumb.png
+alt: Coinhako logo
+link: https://www.coinhako.com/
+---

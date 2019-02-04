@@ -1,0 +1,10 @@
+---
+title: Paxful
+name: paxful
+subtitle: Position
+layout: 2018_default
+modal-id: 1
+thumbnail: paxful_thumb.png
+alt: Paxful logo
+link: https://paxful.com/
+---
