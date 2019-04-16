@@ -1,14 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SPOT 2018</title>
+    <title>SPOT 2019</title>
     <description>Cryptocurrency Exchanges Conference in Hong Kong
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Feb 2019 11:37:33 +0800</pubDate>
-    <lastBuildDate>Mon, 04 Feb 2019 11:37:33 +0800</lastBuildDate>
-    <generator>Jekyll v3.8.3</generator>
+    <pubDate>Tue, 16 Apr 2019 22:02:44 +0800</pubDate>
+    <lastBuildDate>Tue, 16 Apr 2019 22:02:44 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>Olga Kochmar</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019_teams/2019/01/01/olga/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019_teams/2019/01/01/olga/</guid>
+        
+        
+        <category>2019_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Leonhard Weese</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019_teams/2019/01/01/leo/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019_teams/2019/01/01/leo/</guid>
+        
+        
+        <category>2019_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Amanda Siew</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019_teams/2019/01/01/amanda/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019_teams/2019/01/01/amanda/</guid>
+        
+        
+        <category>2019_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>TBD</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019_supporters/2019/01/01/tbd/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019_supporters/2019/01/01/tbd/</guid>
+        
+        
+        <category>2019_supporters</category>
+        
+      </item>
+    
+      <item>
+        <title>Bitcoin Association of Hong Kong</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019_supporters/2019/01/01/bahk/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019_supporters/2019/01/01/bahk/</guid>
+        
+        
+        <category>2019_supporters</category>
+        
+      </item>
+    
+      <item>
+        <title>TBD</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019_speakers/2019/01/01/tbd/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019_speakers/2019/01/01/tbd/</guid>
+        
+        
+        <category>2019_speakers</category>
+        
+      </item>
     
       <item>
         <title>Zotapay</title>
@@ -56,84 +134,6 @@
         <pubDate>Sun, 01 Apr 2018 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2018_supporters/2018/04/01/tangem/</link>
         <guid isPermaLink="true">http://localhost:4000/2018_supporters/2018/04/01/tangem/</guid>
-        
-        
-        <category>2018_supporters</category>
-        
-      </item>
-    
-      <item>
-        <title>Spark</title>
-        <description>
-</description>
-        <pubDate>Sun, 01 Apr 2018 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2018_supporters/2018/04/01/spark/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018_supporters/2018/04/01/spark/</guid>
-        
-        
-        <category>2018_supporters</category>
-        
-      </item>
-    
-      <item>
-        <title>Paxful</title>
-        <description>
-</description>
-        <pubDate>Sun, 01 Apr 2018 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2018_supporters/2018/04/01/paxful/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018_supporters/2018/04/01/paxful/</guid>
-        
-        
-        <category>2018_supporters</category>
-        
-      </item>
-    
-      <item>
-        <title>Origin X Capital</title>
-        <description>
-</description>
-        <pubDate>Sun, 01 Apr 2018 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2018_supporters/2018/04/01/originx/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018_supporters/2018/04/01/originx/</guid>
-        
-        
-        <category>2018_supporters</category>
-        
-      </item>
-    
-      <item>
-        <title>OKEX</title>
-        <description>
-</description>
-        <pubDate>Sun, 01 Apr 2018 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2018_supporters/2018/04/01/okex/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018_supporters/2018/04/01/okex/</guid>
-        
-        
-        <category>2018_supporters</category>
-        
-      </item>
-    
-      <item>
-        <title>Octagon</title>
-        <description>
-</description>
-        <pubDate>Sun, 01 Apr 2018 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2018_supporters/2018/04/01/octagon/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018_supporters/2018/04/01/octagon/</guid>
-        
-        
-        <category>2018_supporters</category>
-        
-      </item>
-    
-      <item>
-        <title>Maicoin</title>
-        <description>
-</description>
-        <pubDate>Sun, 01 Apr 2018 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2018_supporters/2018/04/01/maicoin/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018_supporters/2018/04/01/maicoin/</guid>
         
         
         <category>2018_supporters</category>

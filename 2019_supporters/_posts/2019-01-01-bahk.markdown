@@ -1,0 +1,10 @@
+---
+title: Bitcoin Association of Hong Kong
+name: bahk
+subtitle: Position
+layout: 2019_default
+modal-id: 1
+thumbnail: bahk_thumb.png
+alt: BAHK logo
+link: https://www.bitcoin.org.hk/
+---

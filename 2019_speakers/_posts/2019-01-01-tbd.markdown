@@ -1,0 +1,11 @@
+---
+title: TBD
+name: tb-d
+position: Position
+company: Company
+layout: 2019_default
+modal-id: 1
+thumbnail: TBD.jpg
+alt: Picture of TBD
+link: https://www.spotconf.com
+---

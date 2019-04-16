@@ -1,0 +1,9 @@
+---
+title: Amanda Siew
+name: amanda
+subtitle: Bitcoin Association of Hong Kong
+layout: 2019_default
+thumbnail: amanda_thumb.png
+alt: Picture of Amanda Siew
+link: https://www.spotconf.com
+---
