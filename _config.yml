@@ -3,23 +3,22 @@ description: > # this means to ignore newlines until "baseurl:"
   Cryptocurrency Exchanges Conference in Hong Kong
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.spotconf.com" # the base hostname & protocol for your site
+image: "../css/2019_style/img/og.png"
+author: Leonhard Weese
 # Build settings
 markdown: kramdown
+lang: en_HK
 
-facebook:
-  app_id: 
-
+# Social
 logo: "../css/2019_style/img/icon-large.png"
 
-social: 
-  name: Bitcoin Association of Hong Kong
-  link: "https://www.facebook.com/bitcoinorghk"
-
-google_site_verification: googleXXXXXXXXXXXXXXXX.html
+twitter:
+  username: bitcoinorghk
+  card: summary
 
 include: ['_2018_pages', '_2019_pages']
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
