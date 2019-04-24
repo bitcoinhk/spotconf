@@ -1,0 +1,9 @@
+---
+title: Bryan Cheung
+name: bryan
+subtitle: Cybersecurity, Bitcoin Association of Hong Kong
+layout: 2019_default
+thumbnail: bryan_thumb.png
+alt: Bryan Cheung
+link: https://www.linkedin.com/in/bryanacheung/
+---

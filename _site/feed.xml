@@ -6,9 +6,9 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 16 Apr 2019 23:47:13 +0800</pubDate>
-    <lastBuildDate>Tue, 16 Apr 2019 23:47:13 +0800</lastBuildDate>
-    <generator>Jekyll v3.8.1</generator>
+    <pubDate>Wed, 24 Apr 2019 16:28:02 +0800</pubDate>
+    <lastBuildDate>Wed, 24 Apr 2019 16:28:02 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Olga Kochmar</title>
@@ -30,6 +30,19 @@
         <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2019_teams/2019/01/01/leo/</link>
         <guid isPermaLink="true">http://localhost:4000/2019_teams/2019/01/01/leo/</guid>
+        
+        
+        <category>2019_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Bryan Cheung</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019_teams/2019/01/01/bryan/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019_teams/2019/01/01/bryan/</guid>
         
         
         <category>2019_teams</category>
@@ -121,19 +134,6 @@
         <pubDate>Sun, 01 Apr 2018 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2018_supporters/2018/04/01/tidebit/</link>
         <guid isPermaLink="true">http://localhost:4000/2018_supporters/2018/04/01/tidebit/</guid>
-        
-        
-        <category>2018_supporters</category>
-        
-      </item>
-    
-      <item>
-        <title>Tangem</title>
-        <description>
-</description>
-        <pubDate>Sun, 01 Apr 2018 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2018_supporters/2018/04/01/tangem/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018_supporters/2018/04/01/tangem/</guid>
         
         
         <category>2018_supporters</category>
