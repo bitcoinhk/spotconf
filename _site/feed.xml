@@ -6,9 +6,9 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Apr 2019 16:28:02 +0800</pubDate>
-    <lastBuildDate>Wed, 24 Apr 2019 16:28:02 +0800</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
+    <pubDate>Tue, 14 May 2019 22:34:49 +0800</pubDate>
+    <lastBuildDate>Tue, 14 May 2019 22:34:49 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.1</generator>
     
       <item>
         <title>Olga Kochmar</title>
@@ -63,12 +63,64 @@
       </item>
     
       <item>
-        <title>TBD</title>
+        <title>Trust Token</title>
         <description>
 </description>
         <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019_supporters/2019/01/01/tbd/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019_supporters/2019/01/01/tbd/</guid>
+        <link>http://localhost:4000/2019_supporters/2019/01/01/trusttoken/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019_supporters/2019/01/01/trusttoken/</guid>
+        
+        
+        <category>2019_supporters</category>
+        
+      </item>
+    
+      <item>
+        <title>Kraken</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019_supporters/2019/01/01/kraken/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019_supporters/2019/01/01/kraken/</guid>
+        
+        
+        <category>2019_supporters</category>
+        
+      </item>
+    
+      <item>
+        <title>CoinFLEX</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019_supporters/2019/01/01/coinflex/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019_supporters/2019/01/01/coinflex/</guid>
+        
+        
+        <category>2019_supporters</category>
+        
+      </item>
+    
+      <item>
+        <title>Bloom Solutions</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019_supporters/2019/01/01/bloom/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019_supporters/2019/01/01/bloom/</guid>
+        
+        
+        <category>2019_supporters</category>
+        
+      </item>
+    
+      <item>
+        <title>Blockstream</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019_supporters/2019/01/01/blockstream/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019_supporters/2019/01/01/blockstream/</guid>
         
         
         <category>2019_supporters</category>
@@ -85,58 +137,6 @@
         
         
         <category>2019_supporters</category>
-        
-      </item>
-    
-      <item>
-        <title>TBD</title>
-        <description>
-</description>
-        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019_speakers/2019/01/01/tbd/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019_speakers/2019/01/01/tbd/</guid>
-        
-        
-        <category>2019_speakers</category>
-        
-      </item>
-    
-      <item>
-        <title>Zotapay</title>
-        <description>
-</description>
-        <pubDate>Sun, 01 Apr 2018 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2018_supporters/2018/04/01/zotapay/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018_supporters/2018/04/01/zotapay/</guid>
-        
-        
-        <category>2018_supporters</category>
-        
-      </item>
-    
-      <item>
-        <title>Wyre</title>
-        <description>
-</description>
-        <pubDate>Sun, 01 Apr 2018 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2018_supporters/2018/04/01/wyre/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018_supporters/2018/04/01/wyre/</guid>
-        
-        
-        <category>2018_supporters</category>
-        
-      </item>
-    
-      <item>
-        <title>Tidebit</title>
-        <description>
-</description>
-        <pubDate>Sun, 01 Apr 2018 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2018_supporters/2018/04/01/tidebit/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018_supporters/2018/04/01/tidebit/</guid>
-        
-        
-        <category>2018_supporters</category>
         
       </item>
     

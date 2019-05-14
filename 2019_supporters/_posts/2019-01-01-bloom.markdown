@@ -1,0 +1,10 @@
+---
+title: Bloom Solutions
+name: bloom
+subtitle: Position
+layout: 2019_default
+modal-id: 1
+thumbnail: bloom_thumb.png
+alt: Bloom logo
+link: https://www.bloom.solutions/
+---

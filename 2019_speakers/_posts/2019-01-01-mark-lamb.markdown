@@ -1,0 +1,11 @@
+---
+title: Mark Lamb
+name: mark-lamb
+position: CEO
+company: CoinFLEX
+layout: 2019_default
+modal-id: 1
+thumbnail: mark-lamb.png
+alt: Picture of Mark Lamb
+link: https://coinflex.com/
+---
