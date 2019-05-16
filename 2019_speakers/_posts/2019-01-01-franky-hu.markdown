@@ -1,0 +1,11 @@
+---
+title: Franky Hu
+name: franky-hu
+position: Director
+company: WageCan
+layout: 2019_default
+modal-id: 1
+thumbnail: franky-hu.png
+alt: Picture of Franky Hu
+link: https://www.wagecan.com/
+---
