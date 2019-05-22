@@ -6,5 +6,5 @@ layout: 2019_default
 modal-id: 1
 thumbnail: bitbank_thumb.png
 alt: Bitbank logo
-link: https://www.bitbank.cc/
+link: https://bitbank.cc/
 ---
