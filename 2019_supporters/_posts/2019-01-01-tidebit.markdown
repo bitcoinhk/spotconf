@@ -1,0 +1,10 @@
+---
+title: Tidebit
+name: tidebit
+subtitle: Position
+layout: 2019_default
+modal-id: 1
+thumbnail: tidebit_thumb.png
+alt: Tidebit logo
+link: https://www.tidebit.com/
+---

@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 24 May 2019 16:17:54 +0800</pubDate>
-    <lastBuildDate>Fri, 24 May 2019 16:17:54 +0800</lastBuildDate>
+    <pubDate>Fri, 24 May 2019 16:22:25 +0800</pubDate>
+    <lastBuildDate>Fri, 24 May 2019 16:22:25 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -76,6 +76,19 @@
       </item>
     
       <item>
+        <title>Tidebit</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019_supporters/2019/01/01/tidebit/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019_supporters/2019/01/01/tidebit/</guid>
+        
+        
+        <category>2019_supporters</category>
+        
+      </item>
+    
+      <item>
         <title>OKEX</title>
         <description>
 </description>
@@ -121,19 +134,6 @@
         <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2019_supporters/2019/01/01/bloom/</link>
         <guid isPermaLink="true">http://localhost:4000/2019_supporters/2019/01/01/bloom/</guid>
-        
-        
-        <category>2019_supporters</category>
-        
-      </item>
-    
-      <item>
-        <title>Blockstream</title>
-        <description>
-</description>
-        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019_supporters/2019/01/01/blockstream/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019_supporters/2019/01/01/blockstream/</guid>
         
         
         <category>2019_supporters</category>
