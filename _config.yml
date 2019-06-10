@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.spotconf.com" # the base hostname & protocol for your site
 image: "../css/2019_style/img/og.png"
-author: Leonhard Weese
+# author: Leonhard Weese
 # Build settings
 markdown: kramdown
 lang: en_HK
