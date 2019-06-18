@@ -1,0 +1,11 @@
+---
+title: Angie Lau
+name: angie-lau
+position: CEO
+company: Forkast News
+layout: 2019_default
+modal-id: 1
+thumbnail: angie-lau.png
+alt: Picture of Angie Lau
+link: https://forkast.news/
+---
