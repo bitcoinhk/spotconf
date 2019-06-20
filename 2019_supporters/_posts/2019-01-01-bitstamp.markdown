@@ -1,0 +1,10 @@
+---
+title: Bitstamp
+name: bitstamp
+subtitle: Position
+layout: 2019_default
+modal-id: 1
+thumbnail: bitstamp_thumb.png
+alt: Bitstamp logo
+link: https://www.bitstamp.net/
+---
