@@ -1,0 +1,10 @@
+---
+title: Horangi
+name: horangi
+subtitle: Position
+layout: 2019_default
+modal-id: 1
+thumbnail: horangi_thumb.png
+alt: Horangi logo
+link: https://www.horangi.com/
+---

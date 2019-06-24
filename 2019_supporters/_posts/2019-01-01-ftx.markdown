@@ -1,0 +1,10 @@
+---
+title: FTX
+name: ftx
+subtitle: Position
+layout: 2019_default
+modal-id: 1
+thumbnail: ftx_thumb.png
+alt: FTX logo
+link: https://ftx.com/
+---
