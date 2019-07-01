@@ -389,6 +389,10 @@
 <lastmod>2019-01-01T00:00:00+08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/2019_speakers/2019/01/01/junhaeng-lee/</loc>
+<lastmod>2019-01-01T00:00:00+08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/2019_speakers/2019/01/01/koji-higashi/</loc>
 <lastmod>2019-01-01T00:00:00+08:00</lastmod>
 </url>
@@ -418,6 +422,10 @@
 </url>
 <url>
 <loc>http://localhost:4000/2019_speakers/2019/01/01/neil-woodfine/</loc>
+<lastmod>2019-01-01T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2019_speakers/2019/01/01/phil-gillespie/</loc>
 <lastmod>2019-01-01T00:00:00+08:00</lastmod>
 </url>
 <url>
@@ -498,10 +506,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/2019_supporters/2019/01/01/horangi/</loc>
-<lastmod>2019-01-01T00:00:00+08:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/2019_supporters/2019/01/01/kraken/</loc>
 <lastmod>2019-01-01T00:00:00+08:00</lastmod>
 </url>
 <url>

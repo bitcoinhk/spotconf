@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 29 Jun 2019 15:04:12 +0800</pubDate>
-    <lastBuildDate>Sat, 29 Jun 2019 15:04:12 +0800</lastBuildDate>
+    <pubDate>Tue, 02 Jul 2019 06:59:17 +0800</pubDate>
+    <lastBuildDate>Tue, 02 Jul 2019 06:59:17 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -102,19 +102,6 @@
       </item>
     
       <item>
-        <title>Kraken</title>
-        <description>
-</description>
-        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019_supporters/2019/01/01/kraken/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019_supporters/2019/01/01/kraken/</guid>
-        
-        
-        <category>2019_supporters</category>
-        
-      </item>
-    
-      <item>
         <title>Horangi</title>
         <description>
 </description>
@@ -134,6 +121,19 @@
         <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2019_supporters/2019/01/01/genesisblock/</link>
         <guid isPermaLink="true">http://localhost:4000/2019_supporters/2019/01/01/genesisblock/</guid>
+        
+        
+        <category>2019_supporters</category>
+        
+      </item>
+    
+      <item>
+        <title>FTX</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019_supporters/2019/01/01/ftx/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019_supporters/2019/01/01/ftx/</guid>
         
         
         <category>2019_supporters</category>
