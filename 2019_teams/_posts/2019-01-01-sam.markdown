@@ -1,9 +1,9 @@
 ---
-title: Amanda Siew
-name: amanda
+title: Sam Lee
+name: sam
 subtitle: Bitcoin Association of Hong Kong
 layout: 2019_default
-thumbnail: amanda_thumb.png
-alt: Picture of Amanda Siew
+thumbnail: sam_thumb.png
+alt: Sam Lee
 link: /2019/team
 ---

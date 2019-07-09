@@ -1,0 +1,10 @@
+---
+title: Coinbase
+name: coinbase
+subtitle: Position
+layout: 2019_default
+modal-id: 1
+thumbnail: coinbase_thumb.png
+alt: Coinbase logo
+link: https://www.coinbase.com/
+---

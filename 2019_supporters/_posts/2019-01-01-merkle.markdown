@@ -1,0 +1,10 @@
+---
+title: Merkle Science
+name: merklescience
+subtitle: Position
+layout: 2019_default
+modal-id: 1
+thumbnail: merkle_thumb.png
+alt: Merkle Science logo
+link: https://www.merklescience.com/
+---
