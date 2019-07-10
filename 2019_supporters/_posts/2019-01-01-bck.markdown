@@ -1,0 +1,10 @@
+---
+title: Bitcoin Center Korea
+name: bck
+subtitle: Position
+layout: 2019_default
+modal-id: 1
+thumbnail: bck_thumb.png
+alt: Bitcoin Center Korea logo
+link: https://bitcoincenterkorea.org/
+---

@@ -1,0 +1,11 @@
+---
+title: Glenn Woo
+name: glenn-woo
+position: Head of Sales
+company: Ledger
+layout: 2019_default
+modal-id: 1
+thumbnail: glenn-woo.png
+alt: Picture of Glenn Woo
+link: https://www.ledger.com/
+---
