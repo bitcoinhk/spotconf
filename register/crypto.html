@@ -1,5 +1,5 @@
 ---
-layout: 2018_default
+layout: 2019_default
 permalink: /register/crypto
 title: Register
 published: true
@@ -10,24 +10,31 @@ published: true
 
     <div class="page-not-found venue-top">
     <h1>{{ page.title }}</h1>
-      <p>To purchase tickets with cryptocurrency, please click on the button below. Your payment will be processed through our partner Coinpayments. Please leave the name of your organization in the comment section of the invoice. For inquiries, please write us at <a href="mailto:july23@spotconf.com">july23@spotconf.com</a></p>
+      <p>To purchase tickets with Bitcoin, please leave your email and follow the steps of our payment processor. For inquiries, please write us at <a href="mailto:july29@spotconf.com">july29@spotconf.com</a></p>
     </div>
-    <div class=text-center>Ticket price: US$300</div>
-    <form class=text-center action="https://www.coinpayments.net/index.php" method="post">
-       <input type="hidden" name="cmd" value="_pay">
-       <input type="hidden" name="reset" value="1">
-       <input type="hidden" name="merchant" value="84ffa7d089e5eefdc9ff75f09f948f80">
-       <input type="hidden" name="item_name" value="SPOT 2018">
-       <input type="hidden" name="currency" value="USD">
-       <input type="hidden" name="amountf" value="300.00000000">
-       <input type="hidden" name="quantity" value="1">
-       <input type="hidden" name="allow_quantity" value="1">
-       <input type="hidden" name="want_shipping" value="0">
-       <input type="hidden" name="success_url" value="https://www.spotconf.com/register/success">
-       <input type="hidden" name="cancel_url" value="https://www.spotconf.com/register/error">
-       <input type="hidden" name="allow_extra" value="1">
-       <input type="image" src="/css/2018_style/img/bitcoin_accepted.png" alt="Buy Now with CoinPayments.net">
+
+<div  class="text-center">
+    <br><p>Regular Admission tickets include admission to SPOT Conference for the full day of 29 July.</p>
+</div>
+<form method="POST" action="https://btcpay.bitcoin.org.hk/apps/2ypZDCExRwghoEvv3qJdyLL5AD9L/pos" target="_blank" class="text-center">
+  <input type="hidden" name="orderId" value="Regular Ticket" />
+  <input type="hidden" name="notificationUrl" value="https://www.spotconf.com/register/success" />
+  <input type="hidden" name="redirectUrl" value="https://www.spotconf.com/register/error" />
+  <input type="text"   name="Email" placeholder="Your Email Address">
+  <button type="submit" name="choiceKey" value="green tea">Regular Admission: US$40</button>
 </form>
+
+<div  class="text-center">
+    <br><p>Networking tickets include lunch and admission to the post-conference social.</p>
+</div>
+<form method="POST" action="https://btcpay.bitcoin.org.hk/apps/2ypZDCExRwghoEvv3qJdyLL5AD9L/pos" target="_blank" class="text-center">
+  <input type="hidden" name="orderId" value="Regular Ticket" />
+  <input type="hidden" name="notificationUrl" value="https://www.spotconf.com/register/success" />
+  <input type="hidden" name="redirectUrl" value="https://www.spotconf.com/register/error" />
+  <input type="text"   name="Email" placeholder="Your Email Address">
+  <button type="submit" name="choiceKey" value="green tea">Networking Ticket: US$140</button>
+</form>
+
 </div>
 
 <!--End mc_embed_signup-->
