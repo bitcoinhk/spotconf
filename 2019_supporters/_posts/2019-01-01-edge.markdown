@@ -1,0 +1,10 @@
+---
+title: Edge
+name: edge
+subtitle: Position
+layout: 2019_default
+modal-id: 1
+thumbnail: edge_thumb.png
+alt: Edge logo
+link: https://edge.app
+---

@@ -1,0 +1,10 @@
+---
+title: Tagomi
+name: tagomi
+subtitle: Position
+layout: 2019_default
+modal-id: 1
+thumbnail: tagomi_thumb.png
+alt: Tagomi logo
+link: https://tagomi.com/
+---

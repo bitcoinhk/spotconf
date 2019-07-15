@@ -1,0 +1,10 @@
+---
+title: GOPAX
+name: gopax
+subtitle: Position
+layout: 2019_default
+modal-id: 1
+thumbnail: gopax_thumb.png
+alt: GOPAX logo
+link: https://www.gopax.com/
+---

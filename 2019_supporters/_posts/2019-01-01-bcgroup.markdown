@@ -1,0 +1,10 @@
+---
+title: BC Group
+name: bcgroup
+subtitle: Position
+layout: 2019_default
+modal-id: 1
+thumbnail: bcgroup_thumb.png
+alt: BC Group logo
+link: https://bc.group/
+---

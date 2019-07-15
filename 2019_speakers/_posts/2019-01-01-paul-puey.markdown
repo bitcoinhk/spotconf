@@ -1,0 +1,11 @@
+---
+title: Paul Puey
+name: paul-puey
+position: CEO
+company: Edge
+layout: 2019_default
+modal-id: 1
+thumbnail: paul-puey.png
+alt: Picture of Paul Puey
+link: https://edge.app
+---
