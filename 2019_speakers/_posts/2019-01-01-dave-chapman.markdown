@@ -1,11 +1,11 @@
 ---
-title: Dave Chapman
-name: dave-chapman
+title: Hugh Madden
+name: hugh-madden
 position: CEO
-company: ANXONE
+company: BC Group
 layout: 2019_default
 modal-id: 1
-thumbnail: dave-chapman.png
-alt: Picture of Dave Chapman
-link: https://anxone.io/
+thumbnail: hugh-madden.png
+alt: Picture of Hugh Madden
+link: https://bc.group
 ---

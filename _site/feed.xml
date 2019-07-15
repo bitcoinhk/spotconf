@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 14 Jul 2019 21:50:48 +0800</pubDate>
-    <lastBuildDate>Sun, 14 Jul 2019 21:50:48 +0800</lastBuildDate>
+    <pubDate>Mon, 15 Jul 2019 15:49:02 +0800</pubDate>
+    <lastBuildDate>Mon, 15 Jul 2019 15:49:02 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -102,12 +102,12 @@
       </item>
     
       <item>
-        <title>OKEX</title>
+        <title>Tagomi</title>
         <description>
 </description>
         <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019_supporters/2019/01/01/okex/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019_supporters/2019/01/01/okex/</guid>
+        <link>http://localhost:4000/2019_supporters/2019/01/01/tagomi/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019_supporters/2019/01/01/tagomi/</guid>
         
         
         <category>2019_supporters</category>
@@ -115,12 +115,12 @@
       </item>
     
       <item>
-        <title>Merkle Science</title>
+        <title>SeedCX</title>
         <description>
 </description>
         <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019_supporters/2019/01/01/merkle/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019_supporters/2019/01/01/merkle/</guid>
+        <link>http://localhost:4000/2019_supporters/2019/01/01/seedcx/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019_supporters/2019/01/01/seedcx/</guid>
         
         
         <category>2019_supporters</category>
@@ -128,12 +128,12 @@
       </item>
     
       <item>
-        <title>Ledger</title>
+        <title>OSL</title>
         <description>
 </description>
         <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019_supporters/2019/01/01/ledger/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019_supporters/2019/01/01/ledger/</guid>
+        <link>http://localhost:4000/2019_supporters/2019/01/01/osl/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019_supporters/2019/01/01/osl/</guid>
         
         
         <category>2019_supporters</category>
