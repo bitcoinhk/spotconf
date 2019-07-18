@@ -1,0 +1,11 @@
+---
+title: Melody Ma
+name: melody-ma
+position: General Counsel
+company: OSL
+layout: 2019_default
+modal-id: 1
+thumbnail: melody-ma.png
+alt: Picture of Melody Ma
+link: https://www.osl.com/
+---

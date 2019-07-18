@@ -393,6 +393,10 @@
 <lastmod>2019-01-01T00:00:00+08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/2019_speakers/2019/01/01/ellis-gyongyos/</loc>
+<lastmod>2019-01-01T00:00:00+08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/2019_speakers/2019/01/01/felix-weis/</loc>
 <lastmod>2019-01-01T00:00:00+08:00</lastmod>
 </url>
@@ -465,7 +469,11 @@
 <lastmod>2019-01-01T00:00:00+08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2019_speakers/2019/01/01/michael-mccarthy/</loc>
+<loc>http://localhost:4000/2019_speakers/2019/01/01/melody-ma/</loc>
+<lastmod>2019-01-01T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2019_speakers/2019/01/01/michael-mccarty/</loc>
 <lastmod>2019-01-01T00:00:00+08:00</lastmod>
 </url>
 <url>
@@ -622,10 +630,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/2019_supporters/2019/01/01/merkle/</loc>
-<lastmod>2019-01-01T00:00:00+08:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/2019_supporters/2019/01/01/okex/</loc>
 <lastmod>2019-01-01T00:00:00+08:00</lastmod>
 </url>
 <url>
