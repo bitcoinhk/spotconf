@@ -1,0 +1,10 @@
+---
+title: One Block Capital
+name: oneblock
+subtitle: Position
+layout: 2019_default
+modal-id: 1
+thumbnail: oneblock_thumb.png
+alt: One Block Capital logo
+link: http://oneblockcapital.com/
+---
