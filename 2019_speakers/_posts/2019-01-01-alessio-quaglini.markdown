@@ -2,7 +2,7 @@
 title: Alessio Quaglini
 name: alessio-quaglini
 position: CEO
-company: HEX
+company: HEX Trust
 layout: 2019_default
 modal-id: 1
 thumbnail: alessio-quaglini.png
