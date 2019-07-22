@@ -1,11 +1,11 @@
 ---
-title: David Willis
-name: david-willis
+title: David Wills
+name: david-wills
 position: COO
 company: Caspian
 layout: 2019_default
 modal-id: 1
-thumbnail: david-willis.png
-alt: Picture of David Willis
+thumbnail: david-wills.png
+alt: Picture of David Wills
 link: https://caspian.tech/
 ---
