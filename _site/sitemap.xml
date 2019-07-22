@@ -497,10 +497,6 @@
 <lastmod>2019-01-01T00:00:00+08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2019_speakers/2019/01/01/ryan-rodenbaugh/</loc>
-<lastmod>2019-01-01T00:00:00+08:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/2019_speakers/2019/01/01/sam-bankmanfried/</loc>
 <lastmod>2019-01-01T00:00:00+08:00</lastmod>
 </url>
@@ -614,6 +610,10 @@
 </url>
 <url>
 <loc>http://localhost:4000/2019_supporters/2019/01/01/gopax/</loc>
+<lastmod>2019-01-01T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2019_supporters/2019/01/01/hex/</loc>
 <lastmod>2019-01-01T00:00:00+08:00</lastmod>
 </url>
 <url>

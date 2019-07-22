@@ -1,0 +1,10 @@
+---
+title: Hex Trust
+name: hextrust
+subtitle: Position
+layout: 2019_default
+modal-id: 1
+thumbnail: hex_thumb.png
+alt: Hex Trust logo
+link: hhttps://hextrust.com/
+---
