@@ -1,5 +1,5 @@
 ---
-title: Benedicte Nolens
+title: Bénédicte Nolens
 name: benedicte-nolens
 position: Managing Director
 company: SC Ventures
