@@ -1,7 +1,7 @@
 ---
 title: David Wills
 name: david-wills
-position: COO
+position: Co-founder
 company: Caspian
 layout: 2019_default
 modal-id: 1
