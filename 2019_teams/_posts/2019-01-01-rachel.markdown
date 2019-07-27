@@ -1,0 +1,9 @@
+---
+title: Rachel Poole
+name: rachel
+subtitle: Bitcoin Association of Hong Kong
+layout: 2019_default
+thumbnail: rachel_thumb.png
+alt: Picture of Rachel Poole
+link: /2019/team
+---

@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Jul 2019 14:39:25 +0800</pubDate>
-    <lastBuildDate>Thu, 25 Jul 2019 14:39:25 +0800</lastBuildDate>
+    <pubDate>Sat, 27 Jul 2019 21:07:56 +0800</pubDate>
+    <lastBuildDate>Sat, 27 Jul 2019 21:07:56 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -17,6 +17,19 @@
         <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2019_teams/2019/01/01/sam/</link>
         <guid isPermaLink="true">http://localhost:4000/2019_teams/2019/01/01/sam/</guid>
+        
+        
+        <category>2019_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Rachel Poole</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019_teams/2019/01/01/rachel/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019_teams/2019/01/01/rachel/</guid>
         
         
         <category>2019_teams</category>
@@ -121,19 +134,6 @@
         <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2019_supporters/2019/01/01/seedcx/</link>
         <guid isPermaLink="true">http://localhost:4000/2019_supporters/2019/01/01/seedcx/</guid>
-        
-        
-        <category>2019_supporters</category>
-        
-      </item>
-    
-      <item>
-        <title>Paxful</title>
-        <description>
-</description>
-        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019_supporters/2019/01/01/paxful/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019_supporters/2019/01/01/paxful/</guid>
         
         
         <category>2019_supporters</category>
