@@ -1,0 +1,10 @@
+---
+title: Jinse Caijing
+name: jinsecaijing
+subtitle: Position
+layout: 2019_default
+modal-id: 1
+thumbnail: jinse_thumb.png
+alt: Jinse Caijing logo
+link: https://www.jinse.com/
+---
